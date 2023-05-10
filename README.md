@@ -8,4 +8,5 @@ Daily taskoto is a school project
 ![2 (2)](https://github.com/sceptile69/Daily-Taskoto-Todo-list-app-/assets/132082420/0cc4d833-ac4d-4c37-9782-27d1803b62b7)
 ![5 (2)](https://github.com/sceptile69/Daily-Taskoto-Todo-list-app-/assets/132082420/bb27440a-a14e-4cbf-8fe1-932b49cf404c)
 
-This project was connected to firebase database. You can also use your firebase by configuring codes inside in this project
+This project was connected to firebase database. You can also use your firebase by configuring codes inside in this project.
+This project was build by taking some project codes online and integrate together to make a good application.
